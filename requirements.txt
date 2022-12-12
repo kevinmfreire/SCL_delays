@@ -6,6 +6,7 @@ pytz==2022.6
 six==1.16.0
 =======
 cycler==0.11.0
+DateTime==4.7
 fonttools==4.38.0
 geographiclib==2.0
 geopy==2.3.0
@@ -21,4 +22,8 @@ pytz==2022.6
 seaborn==0.12.1
 six==1.16.0
 typing_extensions==4.4.0
+<<<<<<< HEAD
 >>>>>>> initial_exploration
+=======
+zope.interface==5.5.2
+>>>>>>> data_processing
